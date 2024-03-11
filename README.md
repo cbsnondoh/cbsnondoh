@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cbsnondoh @noelnondoh
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Azure, AWS, K8s, Git, Terraform
+- 🌱 I’m currently learning Azure, AWS, K8s, Openshift, Git, Terraform, .NET, Docker, ELK
 - 💞️ I’m looking to collaborate on ...
 - ⚡ Fun fact: I don't know how to swim
 
